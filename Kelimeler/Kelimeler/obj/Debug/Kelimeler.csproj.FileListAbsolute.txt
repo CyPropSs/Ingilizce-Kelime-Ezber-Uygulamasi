@@ -1,0 +1,11 @@
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\bin\Debug\Kelimeler.exe.config
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\bin\Debug\Kelimeler.exe
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\bin\Debug\Kelimeler.pdb
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.Properties.Resources.resources
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.exe
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.pdb
+C:\Users\murat\source\repos\Kelimeler\Kelimeler\obj\Debug\Kelimeler.Kelime.resources
